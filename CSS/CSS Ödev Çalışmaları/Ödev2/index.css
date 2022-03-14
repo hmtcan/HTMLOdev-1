@@ -1,0 +1,57 @@
+body {
+    margin: 0px;
+    padding: 0px;
+
+}
+.topblock {
+    background-color: rgb(228, 227, 227);
+    width: 1650px;
+    height: 60px;
+}
+.arama-kutusu {
+    width: 317px;
+    height: 21px;
+    margin: -17px 665px auto;
+    border-radius: 3px;
+    background-color: white
+}
+input[type=text] 
+{
+    width: 317px ;
+    height: 21px;
+    margin: 0px;
+    padding: 5px 5px;
+    box-sizing: border-box;
+  }
+.box1{
+    margin-top: 2px;
+    margin-left: 135px;
+    width: 700px;
+    height: 100px;
+    text-align: center;
+    background-color:#7EE5DA ;
+    float: left;
+}
+.box2{
+    margin-top: 2px;
+    margin-left: 2px;
+    width: 222px;
+    height: 100px;
+    background-color:#70CCC2;
+    float: left;
+    text-align: center;
+}
+.box3{
+    margin-top: 2px;
+    margin-left: 2px;
+    width: 724px;
+    height: 100px;
+    background-color:#62B3AA ;
+    float: left;
+    text-align: center;
+}
+.clear{
+    font-size: small;
+    clear: both;
+text-align: center;
+}
