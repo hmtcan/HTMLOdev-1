@@ -17,7 +17,6 @@
     background-image: url(img/search-solid.svg);
     background-repeat: no-repeat;
     text-indent: 20px;
-    
   }
   
   .body {
@@ -150,6 +149,6 @@
   border-radius: 20px;
 }
 
-.like{
-  margin-left: 1px;
-}
+.yazi:hover{
+  color: rgb(87, 85, 85) !important;
+  }
