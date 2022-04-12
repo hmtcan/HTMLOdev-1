@@ -3,6 +3,7 @@
 
 2- Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 Big-O gösterimini yazınız.
+
 3- Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
@@ -20,7 +21,9 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
 3-
 * Avarage Case
+
 4-
+
 -> [7,3,5,8,2,9,4,15,6]
 
 * [2,3,5,8,7,9,4,15,6] 
